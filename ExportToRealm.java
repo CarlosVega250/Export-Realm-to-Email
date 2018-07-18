@@ -1,4 +1,4 @@
-public class ExportToRealm {
+public void exportDatabaseToMail() {
    // init realm
         Realm realm = Realm.getDefaultInstance();
 
